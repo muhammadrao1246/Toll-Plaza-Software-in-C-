@@ -1,0 +1,2 @@
+# Toll-Plaza-Software-in-C-
+My project is about "Toll Plaza System", First the user creates a new account for the toll collector or logs into an existing one. Then user enter name of toll collector. Then program shows different vehicle types with taxes. The user then enters selected vehicle category and cash received. The program then displays the remaining change and prints a receipt. After exiting this process the user can also view total sales record and can also delete existing record.
